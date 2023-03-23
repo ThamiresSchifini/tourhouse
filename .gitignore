@@ -1,3 +1,5 @@
 **/__pycache__
 
-imss/db.sqlite3
+itmss/db.sqlite3
+
+.idea
